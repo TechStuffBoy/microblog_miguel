@@ -39,6 +39,7 @@ venv
 app.db
 microblog.log*
 .env
+Notes.txt
 
 
 ## Mac Related
