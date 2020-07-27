@@ -1,3 +1,8 @@
 # Welcome to Microblog!
 
-This is an example application featured in my [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). See the tutorial for instructions on how to work with it.
+This application is live and can be accessed through,
+http://nandhu-microblog.herokuapp.com/
+
+Please be advised that, this is a free hosting which is done through Heroku.
+
+Feel free to register and explore the app.
