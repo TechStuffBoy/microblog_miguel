@@ -26,10 +26,9 @@ Application support,
   > User Register
   > Uer login
   > Forgot password
-  > Users can follow eachother
   > Database Migration
   > SQL ORM
-  etc.
+  > Users can create post and follow eachother, etc.
   ```
   
 The PostGres Database has beem used as a database engine.
