@@ -31,6 +31,6 @@ Application support,
   > Users can create post and follow eachother, etc.
   ```
 ``` 
-The PostGres Database has beem used as a database engine.
+SQLite was used for development and the PostGres Database has beem used as a database engine for production.
 It is running with Gunicorn web server.
 ```
