@@ -6,10 +6,8 @@ http://nandhu-microblog.herokuapp.com/
 ```
 ```
 Please be advised that, this is a free hosting which is done through Heroku.
-
 Feel free to register and explore the app.
-
-The web-app is completely developed using **Flask Web Framework**
+The web-app is completely developed using Flask Web Framework.
 ```
 The Major extensions used are,
 ```
